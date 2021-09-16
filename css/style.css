@@ -1,0 +1,18 @@
+body {
+    align-items: center;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+button {
+    border-radius: 8px;
+}
+
+p {
+    font-size: large;
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+}
